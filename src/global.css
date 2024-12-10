@@ -1,0 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100..900&family=Nunito+Sans:ital,opsz,wdth,wght,YTLC@0,6..12,75..125,200..1000,440..540;1,6..12,75..125,200..1000,440..540&display=swap");
+
+body {
+  font-family: "Nunito Sans", "Noto Sans TC", "Times New Roman", Times, serif !important;
+}

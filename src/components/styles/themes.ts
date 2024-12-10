@@ -101,6 +101,22 @@ const theme: Themes = {
       },
     },
   },
+  sanko: {
+    id: "T_007",
+    name: "sanko",
+    colors: {
+      body: "#141414",
+      scrollHandle: "#74b9ff",
+      scrollHandleHover: "#0984e3",
+      primary: "#3498db",
+      secondary: "#3498db",
+      text: {
+        100: "#FFFFFF",
+        200: "#E1E9CC",
+        300: "#CDCDCD",
+      },
+    },
+  },
 };
 
 export default theme;
